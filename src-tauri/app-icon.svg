@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="H47 Ledger">
+  <rect width="512" height="512" rx="112" fill="#34d399"/>
+  <g fill="#022c22" fill-rule="evenodd">
+    <path d="M76 160h40v76h30v-76h40v192h-40v-76h-30v76h-40z"/>
+    <path d="M262 160h50v110h18v40h-18v42h-40v-42h-64v-38zM253 270h19v-39z"/>
+    <path d="M352 160h88v38l-48 154h-42l46-152h-44z"/>
+  </g>
+</svg>
